@@ -1,0 +1,13 @@
+.usememo {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  padding-top: 200px;
+}
+
+.usememo > div {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
